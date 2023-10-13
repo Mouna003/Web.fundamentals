@@ -33,5 +33,5 @@ img.octocat {
 }
 
 .blue {
-    background-color: cyan(0, 238, 255);
+    background-color: cyan;
 }
